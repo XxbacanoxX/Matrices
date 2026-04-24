@@ -13,4 +13,4 @@
  # Integrantes
 
 * Hector Espinosa Luque
-* Vanegas
+* Vanega
