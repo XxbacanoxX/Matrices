@@ -12,5 +12,5 @@
 
  # Integrantes
 
-* Hector Espinosa Luqu
+* Hector Espinosa Luque
 * Vanegas
