@@ -16,3 +16,8 @@
 * Juan Felipe Vanegas Rojas.
 
 # ENLACES DE INVESTIGACION
+
+* https://keepcoding.io/blog/como-hacer-una-matriz-en-java/ - Matrices en java
+* https://www.datacamp.com/es/doc/java/defining-and-initializing-arrays - Definir e inicializar arreglos
+* https://lineadecodigo.com/java/crear-una-matriz-en-java/ - Crear matrices en java
+* https://es.slideshare.net/slideshow/matrices-en-java/46150334 - Ejemplos de matrices java pdf
