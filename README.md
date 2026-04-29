@@ -9,6 +9,8 @@
 * Escoger dos banderas de alguna nacion y hacerlo en formato de pixel art en excel
 * presentacion del tema de matrices
 * Codigos de las banderas con tamaño mediano ( 9x27 )
+* Fixture
+* tabla de jugadores
 
  # Integrantes
 
